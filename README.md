@@ -4,15 +4,15 @@
 
 _Genetic algorithms (GAs) are optimization techniques inspired by natural selection. They are used to find approximate solutions to optimization and search problems by evolving a population of candidate solutions through selection, crossover, and mutation._
 
-__Genetic Algorithm Implementation
-The genetic algorithm is used to optimize the values of L and C to minimize the reflection coefficient. The steps include:
-
+Genetic Algorithm Implementation:
+The genetic algorithm is used to optimize the values of L and C to minimize the reflection coefficient. 
+The steps include:
 Initialization: Generate an initial population of candidate solutions.
 Evaluation: Calculate the fitness (reflection coefficient) of each individual.
 Selection: Select individuals based on their fitness.
 Crossover: Combine pairs of individuals to produce offspring.
 Mutation: Introduce random changes to some individuals.
-Iteration: Repeat the process for a number of generations.__
+Iteration: Repeat the process for a number of generations.
 
 **CODE BREAKDOWN:**__
 
