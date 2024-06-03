@@ -14,10 +14,12 @@ Crossover: Combine pairs of individuals to produce offspring.
 Mutation: Introduce random changes to some individuals.
 Iteration: Repeat the process for a number of generations.
 
-**CODE BREAKDOWN:**__
+**CODE BREAKDOWN:**
 
 Objective Function:
+
 reflection_coefficient: Calculates the reflection coefficient for an L-section matching network using the component values (L, C) and the operating frequency.
+
 Genetic Algorithm Setup:
 
 evaluate: Function to evaluate the fitness of an individual (candidate solution) in the population.
